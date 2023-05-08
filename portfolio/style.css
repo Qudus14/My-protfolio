@@ -58,11 +58,11 @@ section{
     cursor: pointer;
     background: none;
     color:white;
-    box-shadow: var(--box-shadow);
+    box-shadow: gold;
 }
 
 .btn:hover{
-    box-shadow: var(--box-shadow-inset);
+    box-shadow:var(--bg-color);
     color:gold;
 }
 
@@ -152,7 +152,7 @@ section{
 
 #menu-btn:hover{
     color:gold;
-    box-shadow: var(--box-shadow-inset);
+    box-shadow: gold;
 }
 
 #theme-toggler{
@@ -172,7 +172,7 @@ section{
 
 #theme-toggler:hover{
     color:gold;
-    box-shadow: var(--box-shadow-inset);
+    box-shadow: gold;
 }
 
 .home{
